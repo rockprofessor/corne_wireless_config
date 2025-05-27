@@ -49,7 +49,7 @@
             display-name = "Layer 1";
             bindings = <
 &trans  &kp LS(DE_N1)  &kp LS(DE_N2)     &kp LS(DE_N3)        &kp LS(DE_N4)  &kp LS(DE_N5)    &kp LS(DE_N6)  &kp LS(DE_N7)    &kp LS(DE_N8)  &kp LS(N9)    &kp LS(N0)     &kp DE_QUESTION
-&trans  &kp DE_N1      &kp DE_N2         &kp DE_N3            &kp DE_N4      &kp DE_N5        &kp DE_N6      &kp DE_N7        &kp DE_N8      &kp DE_N9     &kp DE_N0      &trans
+&trans  &kp DE_N1      &kp DE_N2         &kp DE_N3            &kp DE_N4      &kp DE_N5        &kp DE_N6      &kp DE_N7        &kp DE_N8      &kp DE_N9     &kp DE_N0      &kp DE_SHARP_S
 &trans  &kp DE_CARET   &kp DE_LESS_THAN  &kp DE_GREATER_THAN  &kp DE_EQUAL   &kp DE_DEG       &trans         &kp LS(DE_PLUS)  &kp DE_PLUS    &kp DE_MINUS  &kp LS(DE_N7)  &kp DE_DOT
                                          &trans               &trans         &trans           &trans         &mo 3            &kp DELETE
             >;
